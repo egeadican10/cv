@@ -25,7 +25,7 @@ Write a short introduction about yourself here.
 ## 🧪 Projects
 ### Project 1
 Description:
-
+https://github.com/users/egeadican10/projects/1/views/1?visibleFields=%5B%22Title%22%2C%22Status%22%2C%22Assignees%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%5D&pane=issue&itemId=174657019
 ### Project 2
 Description:
 
