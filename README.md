@@ -1,4 +1,4 @@
-# cv
+#cv
 I am a highly motivated individual with a strong interest in cybersecurity, continuously improving my skills in this field. I have foundational to intermediate knowledge of Linux security and hands-on experience in network analysis and vulnerability scanning. I have worked with tools such as Nmap for network discovery and security scanning, and Wireshark for packet analysis. I am a fast learner with strong analytical thinking and problem-solving skills, aiming to build a professional career in cybersecurity.
 # 👤 Name Surname
 
@@ -30,7 +30,8 @@ https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
 https://github.com/egeadican10/cv/issues/1
 
 ### Project 2
-Description:
+brute-force projekt
+Description:https://github.com/egeadican10/cv/issues/3
 
 ### Project 3
 Description:
