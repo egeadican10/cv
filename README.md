@@ -25,7 +25,11 @@ Write a short introduction about yourself here.
 ## 🧪 Projects
 ### Project 1
 Description:
-https://github.com/users/egeadican10/projects/1/views/1?visibleFields=%5B%22Title%22%2C%22Status%22%2C%22Assignees%22%2C%22Linked+pull+requests%22%2C%22Sub-issues+progress%22%5D&pane=issue&itemId=174657019
+Linux Security Fundamentals (Hands-on Lab Project)
+GitHub: https://github.com/egeadican10/linux-project
+- Practiced Linux file permission management and access control
+- Simulated insecure configurations and applied security fixes
+- Documented hands-on lab work in a structured GitHub repository
 ### Project 2
 Description:
 
