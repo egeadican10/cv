@@ -27,9 +27,7 @@ Write a short introduction about yourself here.
 Description:
 Linux Security Fundamentals (Hands-on Lab Project)
 https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
-- Practiced Linux file permission management and access control
-- Simulated insecure configurations and applied security fixes
-- Documented hands-on lab work in a structured GitHub repository
+
 ### Project 2
 Description:
 
