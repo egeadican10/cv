@@ -27,6 +27,7 @@ Write a short introduction about yourself here.
 Description:
 Linux Security Fundamentals (Hands-on Lab Project)
 https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
+https://github.com/egeadican10/cv/issues/1
 
 ### Project 2
 Description:
