@@ -23,13 +23,13 @@ Write a short introduction about yourself here.
 ---
 
 ## 🧪 Projects
-### Project(Linux Security Fundamentals (Hands-on Lab Project)
-
+### Project 1
+Description:https://github.com/egeadican10/log-analysis-project.git
 
 
 
 ### Project( logh projects)
-Description:https://github.com/egeadican10/log-analysis-project.git
+
 
 ### Project 
 Description:
