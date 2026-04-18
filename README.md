@@ -29,8 +29,8 @@ Write a short introduction about yourself here.
 https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
 https://github.com/egeadican10/cv/issues/1
 
-### Project( 
-Description:
+### Project( logh projects)
+Description:379bdb5f5ac77190857013183532b551423dfc0f
 
 ### Project 
 Description:
