@@ -26,8 +26,7 @@ Write a short introduction about yourself here.
 ### Project(Linux Security Fundamentals (Hands-on Lab Project)
 
 
-https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
-https://github.com/egeadican10/cv/issues/1
+
 
 ### Project( logh projects)
 Description:https://github.com/egeadican10/log-analysis-project.git
