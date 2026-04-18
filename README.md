@@ -23,16 +23,16 @@ Write a short introduction about yourself here.
 ---
 
 ## 🧪 Projects
-### Project 1
-Description:
-Linux Security Fundamentals (Hands-on Lab Project)
+### Project(Linux Security Fundamentals (Hands-on Lab Project)
+
+
 https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
 https://github.com/egeadican10/cv/issues/1
 
-### Project 2
+### Project( 
+Description:
 
-
-### Project 3
+### Project 
 Description:
 
 ---
