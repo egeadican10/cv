@@ -28,7 +28,14 @@ Description:https://github.com/egeadican10/log-analysis-project.git
 
 
 
-### Project( logh projects)
+### Project
+SIEM Lab Project – Brute Force Detection
+
+- Simulated SSH brute force attack using Kali Linux
+- Analyzed Linux auth logs to identify attack patterns
+- Detected account compromise via failed-to-success login sequence
+- Developed detection rules for brute force attacks
+- Created incident response report
 
 
 ### Project 
