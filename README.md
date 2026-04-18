@@ -30,8 +30,7 @@ https://github.com/users/egeadican10/projects/1?pane=issue&itemId=174657019
 https://github.com/egeadican10/cv/issues/1
 
 ### Project 2
-brute-force projekt
-Description:https://github.com/egeadican10/cv/issues/3
+
 
 ### Project 3
 Description:
