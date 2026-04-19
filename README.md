@@ -24,6 +24,13 @@ Write a short introduction about yourself here.
 
 ## 🧪 Projects
 ### Project 1
+Security Log Analysis & Brute Force Detection Project
+
+- Simulated a brute force attack targeting an admin account
+- Analyzed authentication logs to identify repeated failed login attempts
+- Detected account compromise via failed-to-success login pattern
+- Identified suspicious IP activity and login anomalies
+- Applied basic detection logic for brute force attack scenarios
 Description:https://github.com/egeadican10/log-analysis-project.git
 
 
