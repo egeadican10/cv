@@ -46,6 +46,7 @@ Description:Full Attack Detection & Log Analysis Project
 - Reconstructed full attack chain from initial access to escalation
 - Developed detection rules for brute force and privilege escalation
 - Performed incident response and forensic timeline analysis
+- https://github.com/egeadican10/log-analysis-project2.git
 
 ---
 
