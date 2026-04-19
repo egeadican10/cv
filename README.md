@@ -56,6 +56,17 @@ Description:Full Attack Detection & Log Analysis Project
 - Performed incident response and forensic timeline analysis
 - https://github.com/egeadican10/log-analysis-project2.git
 
+
+Network Reconnaissance & Service Enumeration using Nmap
+
+Conducted network scanning using Nmap with SYN scan (-sS) for stealth reconnaissance
+Identified open, filtered, and restricted ports on a target system
+Performed service and version detection (-sV) to analyze exposed applications
+Used OS fingerprinting (-O) to determine system characteristics
+Leveraged NSE scripts (-sC) for automated information gathering
+Interpreted scan results to identify potential security risks and attack surfaces
+Analyzed outdated service versions (e.g., Apache, OpenSSH) for possible vulnerabilities
+
 ---
 
 ## 📜 Certifications
