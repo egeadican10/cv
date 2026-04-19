@@ -39,7 +39,13 @@ SIEM Lab Project – Brute Force Detection
 
 
 ### Project 
-Description:
+Description:Full Attack Detection & Log Analysis Project
+
+- Simulated a multi-stage cyber attack (reconnaissance, brute force, privilege escalation)
+- Analyzed system logs to detect attack patterns and anomalies
+- Reconstructed full attack chain from initial access to escalation
+- Developed detection rules for brute force and privilege escalation
+- Performed incident response and forensic timeline analysis
 
 ---
 
