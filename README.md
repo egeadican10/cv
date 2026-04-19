@@ -80,7 +80,16 @@ Advanced Network Reconnaissance & Analysis using Nmap
 - Interpreted scan outputs to identify attack surfaces, misconfigurations, and security risks
 - Analyzed firewall behavior based on filtered ports and access-controlled services
 - Followed a structured reconnaissance methodology simulating real-world penetration testing workflow 
-- https://github.com/egeadican10/nmap-advanced-recon-.git
+- https://github.com/egeadican10/nmap-advanced-recon-.git 
+
+  Enterprise Network Security Assessment Project
+
+- Conducted a simulated internal security assessment focusing on SMB, Jenkins, and WinRM services
+- Identified high-risk misconfigurations leading to potential Remote Code Execution and unauthorized access
+- Developed a realistic attack path leveraging credential exposure and service chaining
+- Evaluated system security posture and attack surface in an enterprise-like environment
+- Proposed mitigation strategies aligned with real-world security practices
+-https://github.com/egeadican10/nmap-hard.git
 ---
 
 ## 📜 Certifications
