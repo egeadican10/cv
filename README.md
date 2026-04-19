@@ -36,6 +36,7 @@ SIEM Lab Project – Brute Force Detection
 - Detected account compromise via failed-to-success login sequence
 - Developed detection rules for brute force attacks
 - Created incident response report
+- https://github.com/egeadican10/log-analysis-project2.git
 
 
 ### Project 
