@@ -69,7 +69,7 @@ Network Reconnaissance & Service Enumeration using Nmap
 - https://github.com/egeadican10/nmap-recon-analysis.git
 
 
-
+###project
 Advanced Network Reconnaissance & Analysis using Nmap
 
 - Conducted full network reconnaissance using Nmap, including full port scanning (-p-) to identify hidden and non-standard services
@@ -82,6 +82,8 @@ Advanced Network Reconnaissance & Analysis using Nmap
 - Followed a structured reconnaissance methodology simulating real-world penetration testing workflow 
 - https://github.com/egeadican10/nmap-advanced-recon-.git 
 
+
+##project
   Enterprise Network Security Assessment Project
 
 - Conducted a simulated internal security assessment focusing on SMB, Jenkins, and WinRM services
