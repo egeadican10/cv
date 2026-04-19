@@ -66,6 +66,7 @@ Network Reconnaissance & Service Enumeration using Nmap
 - Leveraged NSE scripts (-sC) for automated information gathering
 - Interpreted scan results to identify potential security risks and attack surfaces
 - Analyzed outdated service versions (e.g., Apache, OpenSSH) for possible vulnerabilities
+- https://github.com/egeadican10/nmap-recon-analysis.git
 
 ---
 
