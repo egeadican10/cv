@@ -72,14 +72,15 @@ Network Reconnaissance & Service Enumeration using Nmap
 
 Advanced Network Reconnaissance & Analysis using Nmap
 
-Conducted full network reconnaissance using Nmap, including full port scanning (-p-) to identify hidden and non-standard services
-Performed service and version enumeration (-sV) to analyze exposed applications and potential vulnerabilities
-Utilized SYN stealth scanning (-sS) to perform low-detection reconnaissance
-Applied OS fingerprinting (-O) to determine system characteristics and support attack planning
-Leveraged NSE scripts (-sC, vuln) for automated enumeration and vulnerability assessment
-Interpreted scan outputs to identify attack surfaces, misconfigurations, and security risks
-Analyzed firewall behavior based on filtered ports and access-controlled services
-Followed a structured reconnaissance methodology simulating real-world penetration testing workflow
+- Conducted full network reconnaissance using Nmap, including full port scanning (-p-) to identify hidden and non-standard services
+- Performed service and version enumeration (-sV) to analyze exposed applications and potential vulnerabilities
+- Utilized SYN stealth scanning (-sS) to perform low-detection reconnaissance
+- Applied OS fingerprinting (-O) to determine system characteristics and support attack planning
+- Leveraged NSE scripts (-sC, vuln) for automated enumeration and vulnerability assessment
+- Interpreted scan outputs to identify attack surfaces, misconfigurations, and security risks
+- Analyzed firewall behavior based on filtered ports and access-controlled services
+- Followed a structured reconnaissance methodology simulating real-world penetration testing workflow 
+- https://github.com/egeadican10/nmap-advanced-recon-.git
 ---
 
 ## 📜 Certifications
