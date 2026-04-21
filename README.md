@@ -84,6 +84,18 @@ Advanced Network Reconnaissance & Analysis using Nmap
 - Evaluated system security posture and attack surface in an enterprise-like environment
 - Proposed mitigation strategies aligned with real-world security practices
 -https://github.com/egeadican10/nmap-hard.git
+
+### project
+**Network Traffic Analysis Project (Wireshark)**
+
+* Performed in-depth analysis of real network traffic at packet level using Wireshark
+* Correlated DNS, TCP, HTTP, and TLS protocols to reconstruct user activity
+* Extracted domain information from encrypted traffic using TLS SNI analysis
+* Interpreted TCP communication using flags, sequence, and acknowledgment data
+* Analyzed HTTP request/response cycles including full URI inspection
+* Identified high-volume communication patterns using Wireshark Conversations
+* Evaluated traffic behavior to detect anomalies and assess network integrity
+
 ---
 
 ## 📜 Certifications
